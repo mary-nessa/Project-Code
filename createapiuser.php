@@ -15,7 +15,7 @@ function generate_uuid()
   );
 }
 $reference_id = generate_uuid();
-$secodary_key = "";
+$secodary_key = "17ed4b810e2d41fabef91da5f298b0b6";
 // Set the request URL and data
 $url = 'https://sandbox.momodeveloper.mtn.com/v1_0/apiuser';
 $data = array(
